@@ -45,7 +45,7 @@ py manage.py runserver
 ```
 
 
-![alt text](model_img_1.png)
+![alt text](launch.png)
 
 ![alt text](model_img_1.png)
 
