@@ -25,11 +25,11 @@ lamination-project/
 │   └── visualize.py       # Visualization scripts
 ├── README.md              # Project documentation
 └── requirements.txt       # Python dependencies
-
-💡 How to Use
-```git clone https://github.com/your-username/lamination-project.git
-cd lamination-project
 ```
+💡 How to Use
+git clone https://github.com/your-username/lamination-project.git
+cd lamination-project
+
 source env/scripts/activate
 
 pip install -r requirements.txt
