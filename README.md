@@ -27,14 +27,15 @@ lamination-project/
 └── requirements.txt       # Python dependencies
 ```
 💡 How to Use
-git clone https://github.com/your-username/lamination-project.git
+```git clone https://github.com/your-username/lamination-project.git
 cd lamination-project
+```
 
-source env/scripts/activate
+```source env/scripts/activate```
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
-py manage.py runserver
+```py manage.py runserver```
 
 
 ![alt text](model_img_1.png)
