@@ -1,18 +1,12 @@
-# Furniture-detection-color-overlaing
+# 🛋️ Furniture Detection & Color Overlaying - Lamination Project  
 
-# Lamination Project
+## 📜 Overview  
+This project focuses on **analyzing and optimizing lamination with an option for color overlaying**. It integrates **machine learning, data analysis, and visualization** techniques to provide an enhanced view of different furniture perspectives.  
 
-## 📜 Overview
-This project focuses on "analyzing and optimizing the lamination process for industrial applications". It incorporates  machine learning, data analysis, etc. to achieve enhanced durability, cost efficiency].
-
-## 🧩 Features
-- Feature 1: e.g., Lamination process simulation
-- Feature 3: Visualizations for lamination performance metrics
-  
-## 🚀 Tech Stack
-- **Programming Language**: Python
-- **Frameworks/Libraries**: pytorch, Django, Matplotlib, yolo
-- **Tools**: Jupyter Notebook, Git
+## 🚀 Tech Stack  
+- **Programming Language**: Python  
+- **Frameworks/Libraries**: PyTorch, Django, YOLO, Matplotlib  
+- **Tools**: Jupyter Notebook, Git  
 
 ## 📂 Project Structure
 ```plaintext
